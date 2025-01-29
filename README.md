@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Article can be found [here](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
+
+I found this article interesting as it covers the flaws of using AI in a professional workplaces instead of hiring a person to do the job of a software engineer. This article demonstrates how we can't rely on AI for creation, at least not yet. Using this kind of technology would degrade the quality of the project and might even put the company responsible at risk. When using technology like this it is important to have a team of humans with the correct qualifications to monitor the AI, which in some cases might cause more money and time to produce a well made project. For now at least, AI should be used carefully and wisely, and the developer should always be open to the risks of using it.
